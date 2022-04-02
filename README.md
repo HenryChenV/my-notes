@@ -13,3 +13,13 @@
 3. [轻量级锁](https://github.com/HenryChenV/my-notes/issues/4)
 4. [重量级锁](https://github.com/HenryChenV/my-notes/issues/5)
 5. [结束](https://github.com/HenryChenV/my-notes/issues/6)
+
+
+## Trace
+### opentelemetry-java-instrumentation 开发笔记
+#### [简介](https://github.com/HenryChenV/my-notes/issues/9)
+#### [手动方式](https://github.com/HenryChenV/my-notes/issues/10)
+#### [自动方式-原理篇](https://github.com/HenryChenV/my-notes/issues/11)
+#### [自动方式-开发篇](https://github.com/HenryChenV/my-notes/issues/12)
+
+
